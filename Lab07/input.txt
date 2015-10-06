@@ -1,0 +1,10 @@
+Gone 	200
+Test	100
+Lord 	12
+Half	100
+Ullyses	1
+Wizard	200
+Run		23.00
+Walk	12.10
+Doctor	34
+Pippy	15
